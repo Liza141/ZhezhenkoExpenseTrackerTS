@@ -1,0 +1,14 @@
+{
+    "name": "expense-tracker-ts",
+    "version": "1.0.0",
+    "description": "Консольний додаток для обліку витрат на TypeScript",
+    "main": "dist/app.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/app.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "typescript": "^4.5.5"
+    }
+}
